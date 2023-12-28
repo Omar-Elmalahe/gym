@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+
+/*stert navbar*/
+
+.logonava{
+    border-radius: 50px;
+}
+.collapse a{
+    margin: 10px ;
+    display: flex;
+    font-size: 20px;
+}
+.navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 80px;
+}
+/*end navbar*/
+
+/*stert div1*/
+
+.carousel img{
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+/*end div1*/
+
+/*stert section1*/
+ 
+.section1{
+    background-color: rgb(53, 53, 53);
+    height: 900px;
+    margin-top: 20px;
+    border-radius: 8%;
+}
+.hedinggym{
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.hedinggym p{
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.hedinggym button{
+    padding: 5px 20PX ;
+    background-color: rgb(0, 0, 255);
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.hedinggym button:hover{
+    background-color: white;
+    color: blue;
+}
+.divtop{
+    margin: 20px;
+    position: relative;
+}
+.para{
+    position: absolute;
+    color: white;
+    margin-left: 120px;
+    margin-top: -150px;
+    font-size: 22px;
+    font-weight: 500;
+
+}
+
+/*end section1*/
+
+/*stert section2*/
+
+img.section2{
+    width: 400px;
+    height: 600px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+/*end section2*/
+
+/*stert section3*/
+.section3{
+    height: 400px;
+    margin-top: 50px;
+    background-color: rgb(18, 17, 17);
+    border-radius: 50px;
+}
+.section3 .divv a{
+    margin-top:px;
+    color: white;
+}
+.divv a i{
+    color: white;
+    padding: 10px   ;
+    background-color: brown;
+    border-radius: 50px;
+    font-size: 20px;
+
+}
+.divv a i:hover{
+  background-color: blue;
+  transition: all 1s;
+  color: black;
+}
+
+.divv .br1{
+    color: rgb(156, 35, 154);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.divv .br2{
+    color: rgb(50, 72, 196);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/*end section3*/
+
+/*stert section4*/
+
+.section4{
+    margin-top: 20px;
+}
+.herd{
+    align-items: center;
+    margin-top: 180px;
+}
+.herdimg img{
+    height: 600px;
+    border-radius: 20px;
+}
+.herdimg img:hover{
+    margin: 20px;
+    transform: 1s;
+    transition: all 2s ;
+}
+.herd h1{
+    color: rgb(73, 89, 148);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.herd p{
+    color: rgb(73, 89, 148);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.herd button{
+    padding: 12px;
+    border-radius: 20px;
+    background-color: rgb(73, 89, 148);
+    color: white;
+}
+.herd button:hover{
+    background-color: black;
+    padding: 1px;
+    transition: 2s all;
+}
+/*end section4*/
+
+/*stert section5*/
+
+.section5 video{
+    height: 800px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+/*end section5*/
+
+.section6{
+    height: 300px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
+    border-radius: 150px;
+    font-weight: 600;
+}
+.section6 a{
+    color: rgb(142, 34, 34);
+
+    text-decoration: none;
+    font-weight: 700;
+}
+.section6 a:hover{
+    color: rgb(142, 34, 34);
+    transition: 2s all ease;
+}
+.section6 div{
+    text-align: center;
+    margin-top: 30px;
+}
+/*endddd websit*/
+
+
+
+
+
+
+
+
+
